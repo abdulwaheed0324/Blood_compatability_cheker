@@ -1,10 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 20px;
-    background-color: rgb(214, 112, 112);
-  }
-  input, select, button {
-    margin: 10px;
-    padding: 10px;
-  }
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(223, 83, 83);
+}
+
+input, select, button {
+  margin: 10px;
+  padding: 10px;
+}
